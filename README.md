@@ -41,6 +41,12 @@ UniteFormer
 
 ## Citation
 
+@inproceedings{meng2025uniteformer,
+  title={Uniteformer: Unifying node and edge modalities in transformers for vehicle routing problems},
+  author={Meng, Dian and Cao, Zhiguang and Gao, Jie and Wu, Yaoxin and Hou, Yaqing},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  year={2025},
+}
 
  
 ## Acknowledgments
