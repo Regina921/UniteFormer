@@ -41,13 +41,16 @@ UniteFormer
 
 ## Citation
 
-@inproceedings{meng2025uniteformer,
+ If this repository is helpful for your research, please cite our paper:
+ 
+```bash
+@inproceedings{neurips2025uniteformer,
   title={Uniteformer: Unifying node and edge modalities in transformers for vehicle routing problems},
   author={Meng, Dian and Cao, Zhiguang and Gao, Jie and Wu, Yaoxin and Hou, Yaqing},
-  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems, {Neurips25}},
   year={2025},
 }
-
+```
  
 ## Acknowledgments
 
